@@ -12,3 +12,8 @@ The following will be tried out in this repo:
 Here's the dev branch, we like information here.
 
 It has been updated since the feature branch was created. This means a rebase is in order
+
+## Good options to have
+
+- `rerere`
+- `autosquash`
